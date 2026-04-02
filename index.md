@@ -5,7 +5,7 @@ title: Your Name's Homepage
 
 <div class="sidebar">
 
-<img src="images/avatar.jpg" width="160">
+<img src="2d093e1f95cad1c886339c31733e6709c83d51e6.jpg" style="width:140px; border-radius:50%;">
 
 <h2>Your Name</h2>
 
