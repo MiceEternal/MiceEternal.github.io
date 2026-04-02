@@ -1,10 +1,6 @@
-## Guo 
--  master's student in Kyushu University
-
-
----
 
 ## About Me
+-  master's student in Kyushu University
 - My hobby is animation
 - To be updated
 
@@ -12,6 +8,7 @@
 ---
 
 ## Research Interests
+
 - Artificial Intelligence
 
 
