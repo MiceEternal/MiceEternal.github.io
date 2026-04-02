@@ -1,13 +1,11 @@
-# Guo
-
-[ ![avatar](2d093e1f95cad1c886339c31733e6709c83d51e6.jpg)](url)
-
-Master's Student in Kyushu University  
-
+# Guo Hao
+  
+ - a master's student in Kyushu University
 ---
 
 ## About Me
-- I am a master's student，my hobby is animation.
+- My hobby is animation.
+- To be updated.
 
 
 ---
