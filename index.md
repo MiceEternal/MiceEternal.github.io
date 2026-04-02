@@ -1,11 +1,12 @@
 ## Guo 
-  
-  a master's student in Kyushu University
+- a master's student in Kyushu University
+
+
 ---
 
 ## About Me
-- My hobby is animation.
-- To be updated.
+- My hobby is animation
+- To be updated
 
 
 ---
