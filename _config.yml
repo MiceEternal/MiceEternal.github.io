@@ -2,3 +2,5 @@ title: Guo's homepage
 email:
 description: 
 
+kramdown:
+  auto_ids: false
