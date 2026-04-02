@@ -1,5 +1,5 @@
 ---
-title: XXX's homepage
+title: Guo's homepage
 ---
 
 ## About Me
