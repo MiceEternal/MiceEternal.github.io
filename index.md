@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Name's Homepage
+title: Guo's Homepage
 ---
 
 <div class="sidebar">
