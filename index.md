@@ -1,6 +1,6 @@
 ---
 layout: default
-
+title: Guo's Homepage
 ---
 
 <div class="sidebar">
