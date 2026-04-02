@@ -1,3 +1,6 @@
+---
+title: XXX's homepage
+---
 
 ## About Me
 -  master's student in Kyushu University
