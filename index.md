@@ -1,4 +1,4 @@
-# Guo Hao
+## Guo Hao
   
  - a master's student in Kyushu University
 ---
