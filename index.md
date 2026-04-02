@@ -1,5 +1,5 @@
 ## Guo 
-- a master's student in Kyushu University
+-  master's student in Kyushu University
 
 
 ---
