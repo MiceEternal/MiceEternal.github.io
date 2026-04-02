@@ -1,10 +1,28 @@
-# Hello, I'm Guo
+# Guo
 
-I'm a master's student in Kyushu University.
+Master's Student in Kyushu University  
+
+---
+
+## About Me
+I am a master's student working on:
+- Machine Learning
+
+
+---
 
 ## Research Interests
-- Machine Learning
-- AI
+- Artificial Intelligence
+
+
+---
+
+## Projects
+- nothing
+  
+
+---
 
 ## Contact
-- Email: lilyeternal16@gmail.com
+Email: lilyeternal16@gmail.com
+GitHub: https://github.com/miceeternal
