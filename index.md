@@ -5,7 +5,7 @@ title: Your Name's Homepage
 
 <div class="sidebar">
 
-<img src="2d093e1f95cad1c886339c31733e6709c83d51e6.jpg">
+<img src="images/avatar.jpg" width="160">
 
 <h2>Your Name</h2>
 
@@ -15,37 +15,38 @@ XXX University<br>
 Japan
 </p>
 
-<a href="mailto:your@email.com">📧 Email</a>
+<p>
+<a href="mailto:your@email.com">📧 Email</a><br>
 <a href="https://github.com/miceeternal">💻 GitHub</a>
+</p>
 
 </div>
 
 <div class="content">
 
-## About Me
-Hi! I'm XXX, a master's student in Japan working on machine learning and AI.
+<h2>About Me</h2>
+<p>Hi! I'm XXX, a master's student in Japan working on machine learning and AI.</p>
 
----
+<hr>
 
-## Research Interests
-- Artificial Intelligence  
-- Machine Learning  
-- Computer Vision  
+<h2>Research Interests</h2>
+<ul>
+<li>Artificial Intelligence</li>
+<li>Machine Learning</li>
+<li>Computer Vision</li>
+</ul>
 
----
+<hr>
 
-## Projects
-- Project A  
-- Project B  
+<h2>Projects</h2>
+<ul>
+<li>Project A</li>
+<li>Project B</li>
+</ul>
 
----
+<hr>
 
-## Publications
-Coming soon
-
----
-
-## News
-- 2026: Started my master's program 🎓  
+<h2>Publications</h2>
+<p>Coming soon</p>
 
 </div>
