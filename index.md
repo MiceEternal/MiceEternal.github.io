@@ -18,11 +18,11 @@ I am a master's student working on:
 ---
 
 ## Projects
-- nothing
+- now,nothing
   
 
 ---
 
 ## Contact
-Email: lilyeternal16@gmail.com
-GitHub: https://github.com/miceeternal
+- [Email](lilyeternal16@gmail.com)
+- [GitHub](https://github.com/miceeternal)
