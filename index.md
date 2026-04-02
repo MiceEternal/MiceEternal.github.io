@@ -3,27 +3,58 @@ layout: default
 title: Guo's homepage
 ---
 
-## About Me
--  master's student in Kyushu University
-- My hobby is animation
-- To be updated
+<table>
+<tr>
 
+<td width="30%" align="center" valign="top">
 
----
+<img src="2d093e1f95cad1c886339c31733e6709c83d51e6.jpg" width="180" style="border-radius:50%;"><br>
 
-## Research Interests
+<h2>Your Name</h2>
 
-- Artificial Intelligence
+<p>
+Master's Student<br>
+XXX University<br>
+Japan
+</p>
 
+<p>
+<a href="mailto:your@email.com">📧 Email</a><br>
+<a href="https://github.com/miceeternal">💻 GitHub</a>
+</p>
 
----
+</td>
 
-## Projects
-- To be updated
-  
+<td width="70%" valign="top">
 
----
+<h2>About Me</h2>
+<p>
+Hi! I'm XXX, a master's student in Japan working on machine learning and AI.
+</p>
 
-## Contact
-- Email: [lilyeternal16@gmail.com](mailto:lilyeternal16@gmail.com)
-- GitHub: [miceeternal](https://github.com/miceeternal)
+<hr>
+
+<h2>Research Interests</h2>
+<ul>
+<li>Artificial Intelligence</li>
+<li>Machine Learning</li>
+<li>Computer Vision</li>
+</ul>
+
+<hr>
+
+<h2>Projects</h2>
+<ul>
+<li>Project A</li>
+<li>Project B</li>
+</ul>
+
+<hr>
+
+<h2>Publications</h2>
+<p>Coming soon</p>
+
+</td>
+
+</tr>
+</table>
