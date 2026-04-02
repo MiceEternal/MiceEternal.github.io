@@ -29,15 +29,23 @@
       /* border-radius: 50%; */
     }
 
-    .content {
-      flex: 1;
-      background: #ffffff;
-      padding: 20px ;
-      border-radius: 10px;
-    }
+.content {
+    flex: 1;
+    background: #ffffff;
+    padding: 30px;      /* 适当增加内边距让内容有呼吸感 */
+    border-radius: 10px;
+    display: flex;      /* 关键 */
+    flex-direction: column; 
+    justify-content: flex-start; /* 强制内容从顶部开始 */
+}
+
+/* 移除第一个标题的顶部间距 */
+.content h2:first-child {
+    margin-top: 0;
+}
 
     h2 {
-      margin-top:1px;
+      margin-top:10px;
       border-bottom: 1px solid #eee;
       padding-bottom: 5px;
     }
