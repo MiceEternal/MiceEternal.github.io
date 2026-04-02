@@ -1,6 +1,6 @@
 # Guo
 
-[//] ![avatar](2d093e1f95cad1c886339c31733e6709c83d51e6.jpg)
+[ ![avatar](2d093e1f95cad1c886339c31733e6709c83d51e6.jpg)](url)
 
 Master's Student in Kyushu University  
 
