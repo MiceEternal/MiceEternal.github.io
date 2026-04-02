@@ -24,5 +24,5 @@ I am a master's student working on:
 ---
 
 ## Contact
-- Email: [lilyeternal16@gmail.com](lilyeternal16@gmail.com)
+- Email: [lilyeternal16@gmail.com](mailto:lilyeternal16@gmail.com)
 - GitHub: [miceeternal](https://github.com/miceeternal)
